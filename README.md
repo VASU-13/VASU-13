@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Vasu
+- Full Stack Developer
 
 <!---
 VASU-13/VASU-13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
